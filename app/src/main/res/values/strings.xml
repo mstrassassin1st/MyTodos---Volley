@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Todos</string>
+    <string name="fetching_data_please_wait">Fetching Data, please wait...</string>
+    <string name="submit">Submit</string>
+    <string name="insert_todos">Insert Todos</string>
+    <string name="no_schedule_present">No schedule Present</string>
+    <string name="set_as_complete">Set As Complete</string>
+    <string name="delete">Delete</string>
+    <string name="insert_todos_title">Insert Todos Title</string>
+    <string name="insert_todos_desc">Insert Todos Desc</string>
+    <string name="new_todo">New Todo</string>
+</resources>
